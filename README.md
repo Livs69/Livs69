@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bienvenue sur mon perfil 🫀
 
-<!--
-**Livs69/Livs69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Liv's
 
-Here are some ideas to get you started:
+- Estou apresentando um projeto no [Alura](https://www.alura.com.br)
+- Estou desenvolvendo o JavaScript
+- Utilizo aqui para colocar projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo 📧
+
+liviamonteiro770@gmail.com
+
+@liviamonteiro
+
+![](https://media.tenor.com/VchKuu12CBUAAAAM/ted2012-blow-a-kiss.gif)
